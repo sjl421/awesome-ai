@@ -10,7 +10,8 @@ __pycache__/
 .vscode
 
 # Data folders in any directory
-*/data/*
+data/*
+weights/*
 
 # ignore csv, tsv files
 *.csv
