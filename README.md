@@ -7,10 +7,15 @@ Welcome to my GitHub repo.
 
 I am a Data Scientist and I code in Python. Here you will find some Machine Learning, Deep Learning, Natural Language Processing, and Computer Vision models I developed.
 
-Data for models available are availabe on request. Drop me a mail or connect with me on [Linkedin](https://linkedin.com/in/kumar-nityan-suman/)
+Data for models available are availabe on request. Drop me a mail or connect with me on [Linkedin](https://linkedin.com/in/kumar-nityan-suman/) .
 
+If like the work I do, show your appreciation by 'FORK', 'START', or 'SHARE'.
 
-+ Tensorflow version used in models: tensorflow==1.12.0
 + Tensorflow's implementation of Keras is used.
++ Scikit-Learn
++ Pandas
++ Numpy
+
+For more details check the REQUIREMENTS.txt
 
 <b> The more you do, the more you learn. </b>
