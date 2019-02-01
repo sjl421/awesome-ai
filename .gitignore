@@ -23,7 +23,7 @@ weights/*
 *.png
 
 # ignore text files
-*.txt
+# *.txt
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints
