@@ -1,4 +1,6 @@
-# awesome-ai [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8497c0a4b0d8455e87d837c33d5ae939)](https://www.codacy.com/app/nityansuman/awesome-ai?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nityansuman/awesome-ai&amp;utm_campaign=Badge_Grade)
+# awesome-ai 
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/8497c0a4b0d8455e87d837c33d5ae939)](https://www.codacy.com/app/nityansuman/awesome-ai?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nityansuman/awesome-ai&amp;utm_campaign=Badge_Grade)
 
 Codes in Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.
 
