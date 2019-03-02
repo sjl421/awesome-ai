@@ -4,13 +4,16 @@
 
 Codes in Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.
 
-+ Tensorflow's implementation of Keras is used.
+
+This repository contains Jupyter notebooks implementing the code samples inspired from the book [Deep Learning with Python (Manning Publications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) and my other mini-projects and learnings. 
+
++ Python 3.6
++ Tensorflow
 + Scikit-Learn
 + Pandas
 + Numpy
 
 For more details check the REQUIREMENTS.txt
-
 
 Data for models available are availabe on request. Drop me a mail or connect with me on [Linkedin](https://linkedin.com/in/kumar-nityan-suman/) .
 
