@@ -7,11 +7,14 @@ Codes in Machine Learning, Deep Learning, Natural Language Processing and Comput
 
 This repository contains Jupyter notebooks implementing the code samples inspired from the book [Deep Learning with Python (Manning Publications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) and my other mini-projects and learnings. 
 
-+ Python 3.6
++ Python 3
 + Tensorflow
 + Scikit-Learn
 + Pandas
 + Numpy
++ Matplotlib
++ Spacy
++ Keras
 
 For more details check the REQUIREMENTS.txt
 
