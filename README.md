@@ -2,19 +2,20 @@
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/8497c0a4b0d8455e87d837c33d5ae939)](https://www.codacy.com/app/nityansuman/awesome-ai?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nityansuman/awesome-ai&amp;utm_campaign=Badge_Grade)
 
-Codes in Machine Learning, Deep Learning, Natural Language Processing and Computer Vision.
+**#Machine Learning**, **#Deep Learning**, **#Natural Language Processing**, **#Computer Vision**
 
+## I recommend Anaconda
+[How to install anaconda ?](https://docs.anaconda.com/anaconda/install/)
 
-This repository contains Jupyter notebooks implementing the code samples inspired from the book [Deep Learning with Python (Manning Publications)](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) and my other mini-projects and learnings. 
-
+## Important Libraries, Packages and Frameworks
 + Python 3
++ Spacy
++ NLTK
++ Numpy
++ Pandas
++ Matplotlib
 + Tensorflow
 + Scikit-Learn
-+ Pandas
-+ Numpy
-+ Matplotlib
-+ Spacy
-+ Keras
 
 For more details check the REQUIREMENTS.txt
 
