@@ -5,6 +5,7 @@ __pycache__/
 
 # MacOS Files and Folders
 .DS_Store
+graphs/
 
 # vs code files
 .vscode
